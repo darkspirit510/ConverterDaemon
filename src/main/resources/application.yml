@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ConverterDaemon
+directory:
+  working: /Users/sknoop/Downloads/Temp
+  source: /Users/sknoop/Downloads/ConverterDaemonSource
+  destination: /Users/sknoop/Downloads/ConverterDaemonOutput
